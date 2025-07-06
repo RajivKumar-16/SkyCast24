@@ -82,7 +82,7 @@ These map Open-Meteo weather codes (0–99) to the corresponding Erik Flowers ic
 1. Clone or download the repository.
 2. Open `index.html` in your web browser.
 3. Allow location access for instant local weather.
-4. Or, search any city name or coordinates to get specific results.
+4. Or, search any city name to get specific results.
 
 ---
 
