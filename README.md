@@ -74,8 +74,6 @@ These map Open-Meteo weather codes (0–99) to the corresponding Erik Flowers ic
 ## 📸 Screenshots
 
 ![SkyCast24 UI Preview](assets/images/screenshot/Screenshot-real-time-data.png)
-![SkyCast24 UI Preview](assets/images/screenshots/Screenshot-hourly&daily-data.png)
-![SkyCast24 UI Preview](assets/images/screenshots/Screenshot-about-contact.png)
 
 ---
 
