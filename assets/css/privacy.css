@@ -1,0 +1,50 @@
+
+    .container {
+      max-width: 850px;
+      margin: 0.5rem auto;
+      padding: 30px 20px;
+      background-color: #fff;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.04);
+      border-radius: 8px;
+    }
+
+    h1 {
+      font-size: 1.8rem;
+      color: #1e88e5;
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      font-size: 1.2rem;
+      margin-top: 15px;
+      margin-bottom: 10px;
+      color: #1976d2;
+    }
+
+    p, li {
+      font-size: 0.95rem;
+      line-height: 1.6;
+      margin: 5px 0;
+    }
+
+    ul {
+      padding-left: 18px;
+      margin-top: 5px;
+    }
+
+    a {
+    font-weight: 600;
+      color: #1976d2;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .footer {
+      text-align: center;
+      font-size: 0.8rem;
+      color: #888;
+      margin-top: 40px;
+    }
